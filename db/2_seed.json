@@ -1,0 +1,80 @@
+[
+    {
+      "_id": "metadata",
+      "security": {
+        "_id": "securityType",
+        "Classification": "UNCLASSIFIED",
+        "Dissemination": "FOR OFFICIAL USE ONLY"
+      },
+      "controlSet": {
+        "_id": "controlSetType",
+        "dataType": "Access Controls",
+        "resourceIdentity": {
+          "_id": "resourceIdentityType",
+          "hash": {
+            "_id": "hashType",
+            "hash": "bdda4444cbe025bd6ffba8a069b372762818faf02775978066d77b1173c25439",
+            "algorithm": "SHA-256"
+          },
+          "id": "https://www.kaggle.com/heshamasem/binetflow?resource=download/JALvbFxOYwmeddBAmbZW%2Fversions%2F0mAQLG3iPvKhJWRxNMpm%2Ffiles%2Fcapture20110819.binetflow&downloadHash=b914e7ae81618de99514ddab3a4abeb5412bcf66d76eb8542127ad927f0e088e"
+        },
+        "createDateTime": 1603152000000,
+        "dataSource": "acas",
+        "responsibleEntity": {
+          "_id": "responsibleEntityType",
+          "cust": "cust",
+          "orig": "orig"
+        },
+        "resourceDisposition": {
+          "_id": "resourceDispositionType",
+          "rule": "rule"
+        },
+        "policyReference": {
+          "_id": "policyReferenceType",
+          "reference": "ref"
+        }
+      },
+      "provenanceData": {
+        "_id": "provenanceType",
+        "dataProviderType": "DMSS-KIT",
+        "dataProvider": "provider"
+      },
+      "cdsMetadata": {
+        "_id": "cdsMetadataType",
+        "destinationDomain": "secret",
+        "sourceDomain": "unclassified"
+      },
+      "ocoMetadata": {
+        "_id": "ocoMetadataType",
+        "infrastructureUsed": [
+          {
+            "_id": "infrastructureType",
+            "id": "infra1"
+          }
+        ],
+        "cyberToolsUsed": [
+          {
+            "_id": "cyberToolType",
+            "id": "tool1"
+          }
+        ]
+      },
+      "authorityReference": {
+        "_id": "authorityReferenceType",
+        "id": "ref"
+      },
+      "exercise": "EXERCISE",
+      "missionContext": {
+        "_id": "missionContext",
+        "activity": {
+          "_id": "activityType",
+          "id": "activity"
+        },
+        "mission": {
+          "_id": "missionType",
+          "id": "mission"
+        }
+      }
+    }
+  ]
+  
